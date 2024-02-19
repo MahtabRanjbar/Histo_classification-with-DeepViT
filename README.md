@@ -21,7 +21,7 @@ This project leverages the DeepVit model, a variant of the Vision Transformer (V
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MahtabRanjbar/Histo_classification-with-DeepViT.git
    ```
 
 2. **Install the required dependencies:**
